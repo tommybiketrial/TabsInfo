@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<net.theluckycoder.expandablecardview.ExpandableCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/expandableCardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="16dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginBottom="8dp"
+    app:description="Information"
+    app:expand_duration="300"
+    app:expanded="false"
+    app:title="Tab" />
